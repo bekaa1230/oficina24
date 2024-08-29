@@ -12214,6 +12214,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b07d77eb275e2654fb2931c49557be16, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Speed: 5
+  JumpForce: 10
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
