@@ -17,7 +17,7 @@ public class kiwi : MonoBehaviour
     }
 
 
-    void OnTiggerEnter2D(Collider2D collider)
+    void OnTriggerEnter2D(Collider2D collider)
     {
         if(collider.gameObject.tag == "Player")
         {
